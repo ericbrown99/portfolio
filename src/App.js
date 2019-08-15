@@ -70,7 +70,7 @@ class App extends Component {
               <div className="scuba">
               </div>
               <div className="technology-text">
-              Outside of technology, I have a passion for our protecting the environment. This has been
+              Outside of technology, I have a passion for protecting the environment. This has been
               fostered by the many nights backpacking in the mountains, discovering our oceans
               and exploring the worlds natural landscapes. For now, Earth is our
               only home...
@@ -1942,7 +1942,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <div className="logo-box">
-            <img src={require("./logo-1.png")} className="App-logo" alt="logo" />
+            <img src={require("./sketch.png")} className="App-logo" alt="logo" />
             <p className="year">
               2019
             </p>

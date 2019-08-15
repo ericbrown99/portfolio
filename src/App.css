@@ -45,8 +45,8 @@ font-style: normal;
 */
 
 .App-header {
-  margin-top: 6vw;
-  margin-bottom: 6vw;
+  margin-top: 3vw;
+  margin-bottom: 8vw;
   display: flex;
   font-size: 2vw;
   color: white;
@@ -59,21 +59,22 @@ font-style: normal;
 .logo-box{
   float: right;
   width: 50%;
-  margin-left: 8vw;
-  max-height: 100px;
+  margin-left: 6vw;
+  max-height: 150px;
 }
 
 .App-logo {
   /* look up animation css class*/
-  height: 7.5vw;
-  width: 7.5vw;
-  margin-right: 9px;
+  height: 15vw;
+  width: 12vw;
+  margin-right: 0px;
   float: left;
+  border-radius: 80px;
 }
 
  .year {
   float: left;
-  line-height: 7.5vw;
+  line-height: 14vw;
   margin: 0;
 }
 
@@ -113,7 +114,7 @@ font-style: normal;
 }
 
 .about-paragraph {
-  margin-top: 2vw;
+  margin-top: 5.4vw;
   border-bottom: 2px solid #1C67C4;
   transition: border-bottom 1s;
   cursor: pointer;

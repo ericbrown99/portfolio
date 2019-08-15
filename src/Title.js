@@ -42,7 +42,7 @@ class Title extends Component {
   displayLine2 = () => {
     if(this.props.titleState == 0){
       return(
-           "consultant & developer specialized"
+           "strategist & developer specialized"
       )
     }
     if(this.props.titleState == 1){
@@ -71,7 +71,7 @@ class Title extends Component {
       return(
         <div>
            <span>in </span>
-           <span className="italics"> healthcare</span>
+           <span className="italics"> blockchain</span>
            <span>, based out of</span>
            <span className="italics"> NYC. </span>
         </div>
