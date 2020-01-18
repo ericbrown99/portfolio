@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Title from './Title';
-import resumePDF from "./PDFs/Aug 14,'19Resume.pdf";
+import resumePDF from "./PDFs/Jan'20Resume.pdf";
 import memeMerchPDF from "./PDFs/Meme Merchant v0.1.pdf";
 import './App.css';
 
